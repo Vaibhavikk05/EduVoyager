@@ -1,0 +1,2 @@
+# EduVoyager
+AI-guided, NSQF-aligned learning roadmaps that help you choose the right path, build real skills, and track your progress—step by step.
